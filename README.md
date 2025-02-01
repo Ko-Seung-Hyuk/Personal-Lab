@@ -1,4 +1,4 @@
-# Personal-Lab
+# Graduate student master's program
 
 1. 주최 = 부경대학교 일반대학원(Pukyong National University Graduate School)
 2. 지도 교수(Teaching Professor) = 김훈희 교수(Professor H2K)
